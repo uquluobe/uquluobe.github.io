@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uquluobe.github.io/MOy/sitemap_index.txt
+Sitemap: https://uquluobe.github.io/Tch/sitemap_index.txt
+Sitemap: https://uquluobe.github.io/oZk/sitemap_index.txt
+Sitemap: https://uquluobe.github.io/wbI/sitemap_index.txt
